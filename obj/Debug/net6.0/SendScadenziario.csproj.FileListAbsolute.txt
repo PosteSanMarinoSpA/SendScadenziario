@@ -1,0 +1,14 @@
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\SendScadenziario.exe
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\SendScadenziario.deps.json
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\SendScadenziario.runtimeconfig.json
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\SendScadenziario.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\SendScadenziario.pdb
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.AssemblyInfoInputs.cache
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.AssemblyInfo.cs
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.csproj.CoreCompileInputs.cache
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\refint\SendScadenziario.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.pdb
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.genruntimeconfig.cache
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\ref\SendScadenziario.dll
