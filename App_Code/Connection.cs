@@ -10,18 +10,12 @@ using System.Configuration;
 /// </summary>
 public class Connection
 {
-    public static string connectionstring = System.Configuration.ConfigurationManager.ConnectionStrings["db"].ToString();
-    public static string connectionstringMexal = System.Configuration.ConfigurationManager.ConnectionStrings["dbMexal"].ToString();
+    public static string connectionstring = System.Configuration.ConfigurationManager.ConnectionStrings["db"].ToString();    
 
     public static string ConnectionString
     {
         get { return connectionstring; }        
-    }
-
-    public static string ConnectionStringMexal
-    {
-        get { return connectionstringMexal; }
-    }
+    }    
 
     public static SqlConnection OpenConnection()
     {

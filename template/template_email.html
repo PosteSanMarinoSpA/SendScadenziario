@@ -56,14 +56,78 @@ font-size: 14px !important;
                         <!-- Begin Content -->
 
                         <table style="border-collapse: collapse;">
+                            <tr class="email-summary">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top;' colspan="4">
+                                    <p style="margin-top: 0; margin-bottom: .5em; text-align: center;"><span class="no-link"><h1><strong>AVVISO SCADENZA</strong></h1></span></p>
+                                </td>
+                            </tr>
                             <tr class="email-intro">
                                 <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
-                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;">{CORPO}</p>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>ID</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;">{ID}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>SOCIET&Agrave;</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;">{SOCIETA}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>DESCRIZIONE</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;">{DESCRIZIONE}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>DATA INIZIO</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;">{DATAINIZIO}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>DATA FINE</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em; color:red;">{DATAFINE}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>DATA DI PREAVVISO</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em; color:red;">{DATAPREAVVISO}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>GIORNI DI PREAVVISO</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em; color:red;">{GGPREAVVISO}</p>
+                                </td>
+                            </tr>
+                            <tr class="email-intro">
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;"><strong>NOTE</strong></p>
+                                </td>
+                                <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top; padding-bottom: 1em;'>
+                                    <p class="greeting" style="margin-top: 0; margin-bottom: .5em;">{NOTE}</p>
                                 </td>
                             </tr>
                             <tr class="email-summary">
                                 <td style='font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; vertical-align: top;'>
-                                    <p style="margin-top: 0; margin-bottom: .5em; text-align: center;"><span class="no-link">{DATAORA}</span></p>
+                                    <p style="margin-top: 0; margin-bottom: .5em; text-align: left;"><span class="no-link">{DATAORA}</span></p>
                                 </td>
                             </tr>
                         </table>

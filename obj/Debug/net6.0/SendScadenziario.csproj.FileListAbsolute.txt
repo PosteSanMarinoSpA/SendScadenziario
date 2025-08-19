@@ -12,3 +12,15 @@ C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\refint\SendScadenziari
 C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.pdb
 C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.genruntimeconfig.cache
 C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\ref\SendScadenziario.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.csproj.AssemblyReference.cache
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScadenziario.sourcelink.json
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\SendScadenziario.dll.config
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Daniele\05. Sviluppo\SendScadenziario\obj\Debug\net6.0\SendScad.8187BCE1.Up2Date
