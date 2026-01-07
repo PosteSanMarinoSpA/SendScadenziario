@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SendScadenziario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ed94c4a8bc951f3507f5893980ad7126d888d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de6267d7765b19b5147ffc4dddffc056736d8c59")]
 [assembly: System.Reflection.AssemblyProductAttribute("SendScadenziario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SendScadenziario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
